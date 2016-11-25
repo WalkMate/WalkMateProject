@@ -1,4 +1,3 @@
 # WalkMateProject
 
-test test test 
-is this working?
+Walk Mate is application to spy where your kids are going after school!
